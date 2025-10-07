@@ -9,7 +9,7 @@ permissions:
   contents: write
   
 env:
-  App_Name: ExportFromGitBucket
+  App_Name: GetUserInfoFromAD
   App_Project_Path: GetUserInfoFromAD.csproj
   
 jobs:
