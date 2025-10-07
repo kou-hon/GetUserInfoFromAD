@@ -1,0 +1,2 @@
+# GetUserInfoFromAD
+ドメインユーザの情報を一気に取得する
